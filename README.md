@@ -19,8 +19,8 @@ These samples use the [Windows.AI.MachineLearning APIs](https://docs.microsoft.c
 ## Requirements
 
 - [Visual Studio 2017 Version 15.7.4 or Newer](https://developer.microsoft.com/en-us/windows/downloads)
-- [Windows 10 - Build 17728 or higher](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
-- [Windows SDK - Build 17723 or higher](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewSDK)
+- [Windows 10 - Build 17738 or higher](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso)
+- [Windows SDK - Build 17738 or higher](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewSDK)
 
 ## Sample apps
 
@@ -31,7 +31,7 @@ These generic examples show how to use various models and input feeds with Windo
 - **SqueezeNetObjectDetection\Desktop\cpp**: a classic desktop C++/WinRT app that uses the SqueezeNet model to detect the predominant object in an image.
 - **MNIST\UWP\cs**: a UWP C# app that uses the MNIST model to detect numberic characters.
 - **MNIST\UWP\cppcx**: a UWP C++/CX app that uses the MNIST model to detect numberic characters.
-
+- **[Awesome-WindowsML-ONNX-Models](https://github.com/ChangweiZhang/Awesome-WindowsML-ONNX-Models)**: An project provides the largest collection of tested ONNX machine learning models ande demos for develpers,to help integrate machine learning features more easily. it also provide a ONNX model generator that is able to convert CoreML models to ONNX format.
 
 
 ## Using the samples
